@@ -1,5 +1,4 @@
 
-Type "help", "copyright", "credits" or "license()" for more information.
 import os
 import platform
 
